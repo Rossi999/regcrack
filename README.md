@@ -17,3 +17,10 @@
 在 Linux / Ubuntu 環境下，使用 GCC 進行編譯：
 ```bash
 gcc regcrack.c -o regcrack
+
+### 2. 執行工具
+在命令行輸入，如: ./regcrack 0x5A，執行轉換。
+```bash
+./regcrack 0x5A
+
+
