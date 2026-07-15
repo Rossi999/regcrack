@@ -24,4 +24,4 @@ gcc regcrack.c -o regcrack
 ```bash
 ./regcrack 0x5A
 ```
-Btw, this github repository was uploaded by git. Yeah, I was trying to get fimiliar with basic git usage and commands.
+Btw, this github repository was uploaded by git and the code was made by vim text editor when I used the bash. Yeah, I was trying to get fimiliar with basic git usage and bash commands.
