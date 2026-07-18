@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> 
 
 void print_binary(unsigned char num){
 	for (int i =7; i<=0;i-- ){
